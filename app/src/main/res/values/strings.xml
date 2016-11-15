@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+
+    <integer-array name="image_resource_array">
+        <item>@drawable/captain_america</item>
+        <item>@drawable/doctor_strange</item>
+        <item>@drawable/jack_reacher</item>
+        <item>@drawable/jurassic_world</item>
+        <item>@drawable/interstellar</item>
+    </integer-array>
+
+</resources>
